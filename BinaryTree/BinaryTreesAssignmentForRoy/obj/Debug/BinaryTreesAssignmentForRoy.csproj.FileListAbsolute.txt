@@ -1,0 +1,7 @@
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\bin\Debug\BinaryTreesAssignmentForRoy.exe.config
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\bin\Debug\BinaryTreesAssignmentForRoy.exe
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\bin\Debug\BinaryTreesAssignmentForRoy.pdb
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\obj\Debug\BinaryTreesAssignmentForRoy.csprojAssemblyReference.cache
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\obj\Debug\BinaryTreesAssignmentForRoy.csproj.CoreCompileInputs.cache
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\obj\Debug\BinaryTreesAssignmentForRoy.exe
+C:\Users\Yael\source\repos\BinaryTreesAssignmentForRoy\BinaryTreesAssignmentForRoy\obj\Debug\BinaryTreesAssignmentForRoy.pdb
